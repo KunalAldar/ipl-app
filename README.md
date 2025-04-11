@@ -30,6 +30,9 @@ An interactive data visualization dashboard to explore and analyze Indian Premie
 - Users interact with sidebar filters to dynamically update metrics and visualizations.
 - Stats include aggregated and match-level insights with dynamic visuals.
 
+Dataset link: [Dataset Link](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+- Maybe be updated according to lastest date
+
 📂 Folder Structure
 -------------------
 
@@ -60,4 +63,4 @@ frontend presentation abilities, and I'm excited to apply these skills to larger
 ------------
 
 Made with ❤️ using Streamlit  
-© 2025 · Created by **Kunal Aldar** · [Contact Me](mailto:kunalaldar@example.com)
+© 2025 · Created by **Kunal Aldar** · [Contact Me](www.linkedin.com/in/kunal-aldar-567a25157)
